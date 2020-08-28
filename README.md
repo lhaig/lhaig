@@ -1,6 +1,6 @@
 ### Where can you find me?
-[Twitter](https://twitter.com/lhaig)
-[haigmail.com](https://haigmail.com)
+- [Twitter](https://twitter.com/lhaig)
+- [haigmail.com](https://haigmail.com)
 
 <!--
 **lhaig/lhaig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
