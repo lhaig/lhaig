@@ -2,7 +2,7 @@
 [![Github](https://img.shields.io/github/followers/lhaig?label=Follow&style=social)](https://github.com/lhaig)
 
 - 🔭 I’m currently working on ...
-  - [ Usery Portal ](https://github.com/lhaig/usery)
+  - [ Nomad ](https://github.com/hashicorp/nomad)
 
 - 🌱 I’m currently learning
 Golang
