@@ -10,11 +10,14 @@ Golang
 ### Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhaig&hide=html)
-![mattn's github stats](https://github-readme-stats.vercel.app/api?username=lhaig&show_icons=true&count_private=true&line_height=40)
+![lhaigs's github stats](https://github-readme-stats.vercel.app/api?username=lhaig&show_icons=true&count_private=true&line_height=40)
 
 ### Where can you find me?
-- [Twitter](https://twitter.com/lhaig)
 - [haigmail.com](https://haigmail.com)
+- [Mastodon](@lhaig@hachyderm.io)
+- [Bluesky](https://bsky.app/profile/lhaig.haigmail.com))
+- [Twitter](https://twitter.com/lhaig)
+
 
 <!--
 **lhaig/lhaig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
