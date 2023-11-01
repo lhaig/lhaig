@@ -15,7 +15,7 @@ Golang
 ### Where can you find me?
 - [haigmail.com](https://haigmail.com)
 - [Mastodon](@lhaig@hachyderm.io)
-- [Bluesky](https://bsky.app/profile/lhaig.haigmail.com))
+- [Bluesky](https://bsky.app/profile/lhaig.haigmail.com)
 - [Twitter](https://twitter.com/lhaig)
 
 
