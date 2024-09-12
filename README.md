@@ -1,9 +1,6 @@
 ### Hey 👋, I'm lhaig
 [![Github](https://img.shields.io/github/followers/lhaig?label=Follow&style=social)](https://github.com/lhaig)
 
-- 🔭 I’m currently working on ...
-  - [ Nomad ](https://github.com/hashicorp/nomad)
-
 - 🌱 I’m currently learning
 Golang
 
